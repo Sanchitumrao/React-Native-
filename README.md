@@ -76,7 +76,7 @@ Build & Deployment
 
 **Folder:** [`01-react-fundamentals/`](./01-react-fundamentals/)
 
-* [Components](./01-react-fundamentals/components.md)
+* [Components](./01-react-fundamentals/Components.md)
 * [JSX](./01-react-fundamentals/jsx.md)
 * [Props](./01-react-fundamentals/props.md)
 * [State](./01-react-fundamentals/state.md)
